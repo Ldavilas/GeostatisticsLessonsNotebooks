@@ -17,6 +17,7 @@ Lessons with notebooks and data available include:
 * Angle Specification ([notebook](notebooks/anglespecification/anglespecification.ipynb) and [lesson](https://geostatisticslessons.com/lessons/anglespecification)), Ben Harding and Matthew Deutsch, 2025
 * Cokriging with Unequally Sampled Data ([notebook](notebooks/cokriging/cokriging.ipynb) and [lesson](https://geostatisticslessons.com/lessons/cokrigingunequal)), Luis Davila and Ryan Barnett, 2025
 * Transforming Data to a Gaussian Distribution ([notebook](notebooks/gaussiantransform/gaussiantransform.ipynb) and [lesson](https://geostatisticslessons.com/lessons/normalscore)), Haoze Zhang, Ben Harding, and Ryan Barnett, 2025
+* Calculation and Modeling of Variogram Anisotropy ([notebook](notebooks/variogramanisotropy/variogramanisotropy.ipynb) and [lesson](https://geostatisticslessons.com/lessons/variogramanisotropy)), Haoze Zhang, Luis Davila, and Ryan Barnett, 2025   
 
 ## Dependencies
 
